@@ -1,5 +1,5 @@
 # OnlineBookStore
-This is the fullstack devlopment  of BookStore web-app.
+This is the fullstack devlopment  of BookStore web-app using Django.
 
 To run this web-app, execute the following steps:
 1. clone the repo or run  ``https://github.com/harshprakash/OnlineBookStore.git``
